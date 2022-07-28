@@ -1,1 +1,0 @@
-export { MergeListPage } from './list';

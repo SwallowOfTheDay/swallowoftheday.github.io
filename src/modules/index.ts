@@ -1,1 +1,0 @@
-export { MergeApp } from './merge';
